@@ -1,8 +1,4 @@
 '''
-Name: Korey Dillon
-Date: 06/3/24
-Class: ISTA 130
-Section Leader: N/A
 
 Functions and Loops!!!
 Building 8 functions where this function2.py file will successfully execute each function to test within the test_functions2.py file.

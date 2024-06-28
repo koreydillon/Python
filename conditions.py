@@ -1,8 +1,4 @@
 '''
-Name: Korey Dillon
-Date: 06/10/24
-Class: ISTA 130
-Section Leader: N/A
 
 Returning Values and Simple Conditions!!!
 Building 10 functions where this conditions.py file will successfully execute each function to test within the test_conditions.py file.

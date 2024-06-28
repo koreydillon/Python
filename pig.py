@@ -1,8 +1,4 @@
 '''
-Name: Korey Dillon
-Date: 06/15/24
-Class: ISTA 130
-Section Leader: N/A
 
 While loops and if statements!!!
 Building functions where this pig.py file will successfully execute each function to test within the test_pig.py file.

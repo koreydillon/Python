@@ -1,9 +1,4 @@
 '''
-Name: Korey Dillon
-Date: 05/26/24
-Class: ISTA 130
-Section Leader: N/A
-
 Learning how built-in print functions work!
 '''
 

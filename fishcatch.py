@@ -1,8 +1,4 @@
 '''
-Name: Korey Dillon
-Date: 06/22/24
-Class: ISTA 130
-Section Leader: N/A
 
 Dictionaries with Lists as Values !!!
 Building functions where this fishcatch.py file will successfully execute fish names and weights
